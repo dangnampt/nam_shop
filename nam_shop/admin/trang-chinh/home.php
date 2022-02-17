@@ -1,0 +1,1 @@
+<h2 class="title text-center">Trang Quản Trị Admin</h2>
